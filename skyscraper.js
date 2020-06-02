@@ -1,4 +1,5 @@
 const floors = [
+  'antenna',
   'fourth',
   'third',
   'second',
